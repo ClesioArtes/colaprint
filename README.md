@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Padrão Clésio Artes Miniapps v1.0 · README
      Espaço da logo Clésio Artes: quando existir, salve como clesioartes-logo.png
      e troque esta linha por <p align="center"><img src="clesioartes-logo.png" alt="Clésio Artes" height="40"></p> -->
@@ -65,3 +66,7 @@ O guia completo, com demonstração, está em **`LEIA-ME.html`**.
 ---
 
 <sub>ColaPrint <!--versao-->1.0.0<!--/versao--> · Clésio Artes · © 2026 · uso livre, redistribuição e venda só com autorização ([LICENSE](LICENSE))</sub>
+=======
+# colaprint
+ColaPrint - tire print com uma tecla e cole direto onde quiser (Python, Windows)
+>>>>>>> 73d5de08095bff98604083ae2184fa26f113accc
