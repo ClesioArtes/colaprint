@@ -1,0 +1,6 @@
+# ColaPrint · dependências (Windows, Python 3.9+)
+pillow>=10.0
+pywin32>=306
+keyboard>=0.13.5
+pystray>=0.19
+pynput>=1.7

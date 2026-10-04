@@ -1,0 +1,22 @@
+# Registros do app (nunca sobem)
+*_erros.txt
+*_instalacao.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editores
+.vscode/
+.idea/
